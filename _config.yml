@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: arance
+description: un blog statico gentilmente hostato da github pages
+logo: ./res/icon.jpg
